@@ -9,7 +9,7 @@ const Third = () => {
 
   return (
     <div>
-      <h1>Thirdです</h1>
+      <h1>Thirdページです</h1>
       <p>ページタイトル：{pageTitle}</p>
       <HomeButton />
     </div>
