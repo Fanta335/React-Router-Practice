@@ -27,6 +27,7 @@ const Home = ({ handleChangeAnimal }) => {
         <button>
           <Link to="/third">Thirdへ</Link>
         </button>
+        <Fourth />
       </div>
     </div>
   );
